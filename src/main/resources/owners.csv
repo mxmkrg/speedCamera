@@ -1,0 +1,11 @@
+firstName,lastName,dateOfBirth,address,phoneNumber,email,gender,walletBalance
+Max,Mustermann,1985-03-12,Hauptstraße 15 10178 Berlin,491712345678,max.mustermann@example.de,M,1250.75
+Anna,Schmidt,1990-07-24,Bahnhofstraße 8 80335 München,491761234567,anna.schmidt@example.de,F,876.30
+Thomas,Müller,1978-11-05,Marktplatz 3 70173 Stuttgart,491598765432,thomas.mueller@example.de,M,2340.90
+Julia,Fischer,1992-05-18,Königsallee 23 40212 Düsseldorf,491634567890,julia.fischer@example.de,F,452.15
+Michael,Weber,1983-09-30,Goethestraße 42 60313 Frankfurt,491771234098,michael.weber@example.de,M,1687.50
+Sarah,Becker,1995-02-14,Kurfürstendamm 101 10711 Berlin,491678901234,sarah.becker@example.de,F,923.45
+David,Schneider,1980-08-07,Alter Markt 8 50667 Köln,491521357924,david.schneider@example.de,M,3156.20
+Laura,Meyer,1988-04-22,Reeperbahn 10 20359 Hamburg,491658765432,laura.meyer@example.de,F,785.60
+Felix,Wagner,1993-12-11,Schillerstraße 5 04109 Leipzig,491739876543,felix.wagner@example.de,M,1425.80
+Lisa,Hoffmann,1987-06-29,Karlsplatz 3 80335 München,491631472583,lisa.hoffmann@example.de,F,2178.35

@@ -1,0 +1,11 @@
+licensePlate,carType,maker,model,yearOfManufacture,registrationDate,numberOfSeats,enginePower,fuelType
+HD-AB-123,car,Toyota,Corolla,2020,2020-06-15,5,132,PETROL
+HD-CD-456,car,Honda,Civic,2019,2019-09-22,5,158,PETROL
+HD-EF-789,car,Volkswagen,Golf,2021,2021-03-11,5,147,DIESEL
+HD-GH-012,car,BMW,3-Series,2022,2022-01-30,5,255,PETROL
+HD-IJ-345,car,Audi,A4,2020,2020-11-05,5,201,DIESEL
+HD-KL-678,motorcycle,Harley-Davidson,Street Glide,2021,2021-05-17,2,89,PETROL
+HD-MN-901,motorcycle,Honda,CBR650R,2022,2022-02-25,1,94,PETROL
+HD-IO-234,motorcycle,Kawasaki,Ninja 400,2020,2020-08-14,1,49,PETROL
+HD-QR-567,car,Mercedes,C-Class,2021,2021-07-29,5,255,DIESEL
+HD-ST-890,car,Tesla,Model 3,2022,2022-04-03,5,283,ELECTRIC
